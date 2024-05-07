@@ -1,0 +1,1357 @@
+[
+    {
+        "sentence": "Recent studies have shown promising results in the treatment of pancreatic cancer using targeted therapies",
+        "intent_data": [
+            {
+                "word": "recent",
+                "entity": "LABEL_1",
+                "score": 0.599772036075592,
+                "index": 1,
+                "start": 0,
+                "end": 6
+            },
+            {
+                "word": "studies",
+                "entity": "LABEL_0",
+                "score": 0.5237516164779663,
+                "index": 2,
+                "start": 7,
+                "end": 14
+            },
+            {
+                "word": "have",
+                "entity": "LABEL_1",
+                "score": 0.5504587888717651,
+                "index": 3,
+                "start": 15,
+                "end": 19
+            },
+            {
+                "word": "shown",
+                "entity": "LABEL_0",
+                "score": 0.6072563529014587,
+                "index": 4,
+                "start": 20,
+                "end": 25
+            },
+            {
+                "word": "promising",
+                "entity": "LABEL_0",
+                "score": 0.5060666799545288,
+                "index": 5,
+                "start": 26,
+                "end": 35
+            },
+            {
+                "word": "results",
+                "entity": "LABEL_0",
+                "score": 0.5568948984146118,
+                "index": 6,
+                "start": 36,
+                "end": 43
+            },
+            {
+                "word": "in",
+                "entity": "LABEL_1",
+                "score": 0.5359625816345215,
+                "index": 7,
+                "start": 44,
+                "end": 46
+            },
+            {
+                "word": "the",
+                "entity": "LABEL_1",
+                "score": 0.5798923373222351,
+                "index": 8,
+                "start": 47,
+                "end": 50
+            },
+            {
+                "word": "treatment",
+                "entity": "LABEL_1",
+                "score": 0.5155150294303894,
+                "index": 9,
+                "start": 51,
+                "end": 60
+            },
+            {
+                "word": "of",
+                "entity": "LABEL_1",
+                "score": 0.5450775027275085,
+                "index": 10,
+                "start": 61,
+                "end": 63
+            },
+            {
+                "word": "pan",
+                "entity": "LABEL_0",
+                "score": 0.5031852722167969,
+                "index": 11,
+                "start": 64,
+                "end": 67
+            },
+            {
+                "word": "##cre",
+                "entity": "LABEL_0",
+                "score": 0.5280435681343079,
+                "index": 12,
+                "start": 67,
+                "end": 70
+            },
+            {
+                "word": "##atic",
+                "entity": "LABEL_0",
+                "score": 0.5011871457099915,
+                "index": 13,
+                "start": 70,
+                "end": 74
+            },
+            {
+                "word": "cancer",
+                "entity": "LABEL_0",
+                "score": 0.6145172715187073,
+                "index": 14,
+                "start": 75,
+                "end": 81
+            },
+            {
+                "word": "using",
+                "entity": "LABEL_1",
+                "score": 0.5606141090393066,
+                "index": 15,
+                "start": 82,
+                "end": 87
+            },
+            {
+                "word": "targeted",
+                "entity": "LABEL_1",
+                "score": 0.5170098543167114,
+                "index": 16,
+                "start": 88,
+                "end": 96
+            },
+            {
+                "word": "the",
+                "entity": "LABEL_0",
+                "score": 0.6273652911186218,
+                "index": 17,
+                "start": 97,
+                "end": 100
+            },
+            {
+                "word": "##ra",
+                "entity": "LABEL_0",
+                "score": 0.6573601961135864,
+                "index": 18,
+                "start": 100,
+                "end": 102
+            },
+            {
+                "word": "##pies",
+                "entity": "LABEL_0",
+                "score": 0.5444304347038269,
+                "index": 19,
+                "start": 102,
+                "end": 106
+            }
+        ]
+    },
+    {
+        "sentence": "The combination of gemcitabine and nab-paclitaxel has demonstrated improved survival rates in patients with advanced pancreatic adenocarcinoma",
+        "intent_data": [
+            {
+                "word": "the",
+                "entity": "LABEL_1",
+                "score": 0.6433822512626648,
+                "index": 1,
+                "start": 0,
+                "end": 3
+            },
+            {
+                "word": "combination",
+                "entity": "LABEL_1",
+                "score": 0.5150837898254395,
+                "index": 2,
+                "start": 4,
+                "end": 15
+            },
+            {
+                "word": "of",
+                "entity": "LABEL_1",
+                "score": 0.5544415712356567,
+                "index": 3,
+                "start": 16,
+                "end": 18
+            },
+            {
+                "word": "gem",
+                "entity": "LABEL_0",
+                "score": 0.5527567267417908,
+                "index": 4,
+                "start": 19,
+                "end": 22
+            },
+            {
+                "word": "##cit",
+                "entity": "LABEL_1",
+                "score": 0.5472827553749084,
+                "index": 5,
+                "start": 22,
+                "end": 25
+            },
+            {
+                "word": "##abi",
+                "entity": "LABEL_0",
+                "score": 0.6185915470123291,
+                "index": 6,
+                "start": 25,
+                "end": 28
+            },
+            {
+                "word": "##ne",
+                "entity": "LABEL_0",
+                "score": 0.5922437310218811,
+                "index": 7,
+                "start": 28,
+                "end": 30
+            },
+            {
+                "word": "and",
+                "entity": "LABEL_1",
+                "score": 0.5344863533973694,
+                "index": 8,
+                "start": 31,
+                "end": 34
+            },
+            {
+                "word": "na",
+                "entity": "LABEL_0",
+                "score": 0.5545254349708557,
+                "index": 9,
+                "start": 35,
+                "end": 37
+            },
+            {
+                "word": "##b",
+                "entity": "LABEL_1",
+                "score": 0.5202242732048035,
+                "index": 10,
+                "start": 37,
+                "end": 38
+            },
+            {
+                "word": "-",
+                "entity": "LABEL_0",
+                "score": 0.5199412703514099,
+                "index": 11,
+                "start": 38,
+                "end": 39
+            },
+            {
+                "word": "pac",
+                "entity": "LABEL_0",
+                "score": 0.5626203417778015,
+                "index": 12,
+                "start": 39,
+                "end": 42
+            },
+            {
+                "word": "##lita",
+                "entity": "LABEL_0",
+                "score": 0.619240939617157,
+                "index": 13,
+                "start": 42,
+                "end": 46
+            },
+            {
+                "word": "##x",
+                "entity": "LABEL_0",
+                "score": 0.5641888380050659,
+                "index": 14,
+                "start": 46,
+                "end": 47
+            },
+            {
+                "word": "##el",
+                "entity": "LABEL_0",
+                "score": 0.5470728278160095,
+                "index": 15,
+                "start": 47,
+                "end": 49
+            },
+            {
+                "word": "has",
+                "entity": "LABEL_1",
+                "score": 0.5505514144897461,
+                "index": 16,
+                "start": 50,
+                "end": 53
+            },
+            {
+                "word": "demonstrated",
+                "entity": "LABEL_0",
+                "score": 0.5321511030197144,
+                "index": 17,
+                "start": 54,
+                "end": 66
+            },
+            {
+                "word": "improved",
+                "entity": "LABEL_0",
+                "score": 0.519823431968689,
+                "index": 18,
+                "start": 67,
+                "end": 75
+            },
+            {
+                "word": "survival",
+                "entity": "LABEL_1",
+                "score": 0.5432875156402588,
+                "index": 19,
+                "start": 76,
+                "end": 84
+            },
+            {
+                "word": "rates",
+                "entity": "LABEL_0",
+                "score": 0.5438073873519897,
+                "index": 20,
+                "start": 85,
+                "end": 90
+            },
+            {
+                "word": "in",
+                "entity": "LABEL_1",
+                "score": 0.5784554481506348,
+                "index": 21,
+                "start": 91,
+                "end": 93
+            },
+            {
+                "word": "patients",
+                "entity": "LABEL_1",
+                "score": 0.5255126357078552,
+                "index": 22,
+                "start": 94,
+                "end": 102
+            },
+            {
+                "word": "with",
+                "entity": "LABEL_0",
+                "score": 0.532996654510498,
+                "index": 23,
+                "start": 103,
+                "end": 107
+            },
+            {
+                "word": "advanced",
+                "entity": "LABEL_0",
+                "score": 0.5169171690940857,
+                "index": 24,
+                "start": 108,
+                "end": 116
+            },
+            {
+                "word": "pan",
+                "entity": "LABEL_0",
+                "score": 0.5092124938964844,
+                "index": 25,
+                "start": 117,
+                "end": 120
+            },
+            {
+                "word": "##cre",
+                "entity": "LABEL_0",
+                "score": 0.5845655202865601,
+                "index": 26,
+                "start": 120,
+                "end": 123
+            },
+            {
+                "word": "##atic",
+                "entity": "LABEL_0",
+                "score": 0.5361174941062927,
+                "index": 27,
+                "start": 123,
+                "end": 127
+            },
+            {
+                "word": "aden",
+                "entity": "LABEL_0",
+                "score": 0.5408806800842285,
+                "index": 28,
+                "start": 128,
+                "end": 132
+            },
+            {
+                "word": "##oca",
+                "entity": "LABEL_0",
+                "score": 0.6386756896972656,
+                "index": 29,
+                "start": 132,
+                "end": 135
+            },
+            {
+                "word": "##rc",
+                "entity": "LABEL_0",
+                "score": 0.543634831905365,
+                "index": 30,
+                "start": 135,
+                "end": 137
+            },
+            {
+                "word": "##ino",
+                "entity": "LABEL_0",
+                "score": 0.5879411101341248,
+                "index": 31,
+                "start": 137,
+                "end": 140
+            },
+            {
+                "word": "##ma",
+                "entity": "LABEL_0",
+                "score": 0.5011377334594727,
+                "index": 32,
+                "start": 140,
+                "end": 142
+            }
+        ]
+    },
+    {
+        "sentence": "Additionally, immunotherapy has emerged as a potential breakthrough in cancer treatment, with checkpoint inhibitors showing efficacy in various malignancies, including melanoma and non-small cell lung cancer",
+        "intent_data": [
+            {
+                "word": "additionally",
+                "entity": "LABEL_0",
+                "score": 0.5235729217529297,
+                "index": 1,
+                "start": 0,
+                "end": 12
+            },
+            {
+                "word": ",",
+                "entity": "LABEL_1",
+                "score": 0.5591506361961365,
+                "index": 2,
+                "start": 12,
+                "end": 13
+            },
+            {
+                "word": "im",
+                "entity": "LABEL_1",
+                "score": 0.6109057068824768,
+                "index": 3,
+                "start": 14,
+                "end": 16
+            },
+            {
+                "word": "##mun",
+                "entity": "LABEL_1",
+                "score": 0.5474289655685425,
+                "index": 4,
+                "start": 16,
+                "end": 19
+            },
+            {
+                "word": "##oth",
+                "entity": "LABEL_1",
+                "score": 0.5594538450241089,
+                "index": 5,
+                "start": 19,
+                "end": 22
+            },
+            {
+                "word": "##era",
+                "entity": "LABEL_0",
+                "score": 0.5832967758178711,
+                "index": 6,
+                "start": 22,
+                "end": 25
+            },
+            {
+                "word": "##py",
+                "entity": "LABEL_0",
+                "score": 0.5468205809593201,
+                "index": 7,
+                "start": 25,
+                "end": 27
+            },
+            {
+                "word": "has",
+                "entity": "LABEL_1",
+                "score": 0.5489736795425415,
+                "index": 8,
+                "start": 28,
+                "end": 31
+            },
+            {
+                "word": "emerged",
+                "entity": "LABEL_1",
+                "score": 0.5461426377296448,
+                "index": 9,
+                "start": 32,
+                "end": 39
+            },
+            {
+                "word": "as",
+                "entity": "LABEL_1",
+                "score": 0.5951977372169495,
+                "index": 10,
+                "start": 40,
+                "end": 42
+            },
+            {
+                "word": "a",
+                "entity": "LABEL_1",
+                "score": 0.5988441109657288,
+                "index": 11,
+                "start": 43,
+                "end": 44
+            },
+            {
+                "word": "potential",
+                "entity": "LABEL_1",
+                "score": 0.5030307173728943,
+                "index": 12,
+                "start": 45,
+                "end": 54
+            },
+            {
+                "word": "breakthrough",
+                "entity": "LABEL_1",
+                "score": 0.5321170091629028,
+                "index": 13,
+                "start": 55,
+                "end": 67
+            },
+            {
+                "word": "in",
+                "entity": "LABEL_1",
+                "score": 0.5326862931251526,
+                "index": 14,
+                "start": 68,
+                "end": 70
+            },
+            {
+                "word": "cancer",
+                "entity": "LABEL_0",
+                "score": 0.5052854418754578,
+                "index": 15,
+                "start": 71,
+                "end": 77
+            },
+            {
+                "word": "treatment",
+                "entity": "LABEL_1",
+                "score": 0.5263940095901489,
+                "index": 16,
+                "start": 78,
+                "end": 87
+            },
+            {
+                "word": ",",
+                "entity": "LABEL_1",
+                "score": 0.5284698009490967,
+                "index": 17,
+                "start": 87,
+                "end": 88
+            },
+            {
+                "word": "with",
+                "entity": "LABEL_1",
+                "score": 0.5525711178779602,
+                "index": 18,
+                "start": 89,
+                "end": 93
+            },
+            {
+                "word": "checkpoint",
+                "entity": "LABEL_1",
+                "score": 0.5660524964332581,
+                "index": 19,
+                "start": 94,
+                "end": 104
+            },
+            {
+                "word": "inhibitors",
+                "entity": "LABEL_1",
+                "score": 0.6084221601486206,
+                "index": 20,
+                "start": 105,
+                "end": 115
+            },
+            {
+                "word": "showing",
+                "entity": "LABEL_0",
+                "score": 0.5744487047195435,
+                "index": 21,
+                "start": 116,
+                "end": 123
+            },
+            {
+                "word": "efficacy",
+                "entity": "LABEL_1",
+                "score": 0.5216678977012634,
+                "index": 22,
+                "start": 124,
+                "end": 132
+            },
+            {
+                "word": "in",
+                "entity": "LABEL_1",
+                "score": 0.534860372543335,
+                "index": 23,
+                "start": 133,
+                "end": 135
+            },
+            {
+                "word": "various",
+                "entity": "LABEL_0",
+                "score": 0.5137754678726196,
+                "index": 24,
+                "start": 136,
+                "end": 143
+            },
+            {
+                "word": "mali",
+                "entity": "LABEL_0",
+                "score": 0.5801897048950195,
+                "index": 25,
+                "start": 144,
+                "end": 148
+            },
+            {
+                "word": "##gnan",
+                "entity": "LABEL_0",
+                "score": 0.6521560549736023,
+                "index": 26,
+                "start": 148,
+                "end": 152
+            },
+            {
+                "word": "##cies",
+                "entity": "LABEL_0",
+                "score": 0.6526020169258118,
+                "index": 27,
+                "start": 152,
+                "end": 156
+            },
+            {
+                "word": ",",
+                "entity": "LABEL_0",
+                "score": 0.5128526091575623,
+                "index": 28,
+                "start": 156,
+                "end": 157
+            },
+            {
+                "word": "including",
+                "entity": "LABEL_0",
+                "score": 0.579870879650116,
+                "index": 29,
+                "start": 158,
+                "end": 167
+            },
+            {
+                "word": "mel",
+                "entity": "LABEL_1",
+                "score": 0.5500937104225159,
+                "index": 30,
+                "start": 168,
+                "end": 171
+            },
+            {
+                "word": "##ano",
+                "entity": "LABEL_1",
+                "score": 0.6602699160575867,
+                "index": 31,
+                "start": 171,
+                "end": 174
+            },
+            {
+                "word": "##ma",
+                "entity": "LABEL_0",
+                "score": 0.5261762738227844,
+                "index": 32,
+                "start": 174,
+                "end": 176
+            },
+            {
+                "word": "and",
+                "entity": "LABEL_1",
+                "score": 0.5754777789115906,
+                "index": 33,
+                "start": 177,
+                "end": 180
+            },
+            {
+                "word": "non",
+                "entity": "LABEL_1",
+                "score": 0.5162748098373413,
+                "index": 34,
+                "start": 181,
+                "end": 184
+            },
+            {
+                "word": "-",
+                "entity": "LABEL_0",
+                "score": 0.5709415078163147,
+                "index": 35,
+                "start": 184,
+                "end": 185
+            },
+            {
+                "word": "small",
+                "entity": "LABEL_1",
+                "score": 0.628767728805542,
+                "index": 36,
+                "start": 185,
+                "end": 190
+            },
+            {
+                "word": "cell",
+                "entity": "LABEL_1",
+                "score": 0.7411080598831177,
+                "index": 37,
+                "start": 191,
+                "end": 195
+            },
+            {
+                "word": "lung",
+                "entity": "LABEL_1",
+                "score": 0.6334841847419739,
+                "index": 38,
+                "start": 196,
+                "end": 200
+            },
+            {
+                "word": "cancer",
+                "entity": "LABEL_1",
+                "score": 0.5297760367393494,
+                "index": 39,
+                "start": 201,
+                "end": 207
+            }
+        ]
+    },
+    {
+        "sentence": "On the other hand, individuals often seek medical advice for common ailments such as the common cold or seasonal allergies",
+        "intent_data": [
+            {
+                "word": "on",
+                "entity": "LABEL_0",
+                "score": 0.628101646900177,
+                "index": 1,
+                "start": 0,
+                "end": 2
+            },
+            {
+                "word": "the",
+                "entity": "LABEL_0",
+                "score": 0.5523298978805542,
+                "index": 2,
+                "start": 3,
+                "end": 6
+            },
+            {
+                "word": "other",
+                "entity": "LABEL_0",
+                "score": 0.5639750957489014,
+                "index": 3,
+                "start": 7,
+                "end": 12
+            },
+            {
+                "word": "hand",
+                "entity": "LABEL_0",
+                "score": 0.5884899497032166,
+                "index": 4,
+                "start": 13,
+                "end": 17
+            },
+            {
+                "word": ",",
+                "entity": "LABEL_0",
+                "score": 0.6560842990875244,
+                "index": 5,
+                "start": 17,
+                "end": 18
+            },
+            {
+                "word": "individuals",
+                "entity": "LABEL_0",
+                "score": 0.5433552265167236,
+                "index": 6,
+                "start": 19,
+                "end": 30
+            },
+            {
+                "word": "often",
+                "entity": "LABEL_0",
+                "score": 0.5872691869735718,
+                "index": 7,
+                "start": 31,
+                "end": 36
+            },
+            {
+                "word": "seek",
+                "entity": "LABEL_0",
+                "score": 0.5662050247192383,
+                "index": 8,
+                "start": 37,
+                "end": 41
+            },
+            {
+                "word": "medical",
+                "entity": "LABEL_1",
+                "score": 0.5452859401702881,
+                "index": 9,
+                "start": 42,
+                "end": 49
+            },
+            {
+                "word": "advice",
+                "entity": "LABEL_0",
+                "score": 0.5509920716285706,
+                "index": 10,
+                "start": 50,
+                "end": 56
+            },
+            {
+                "word": "for",
+                "entity": "LABEL_1",
+                "score": 0.5284870266914368,
+                "index": 11,
+                "start": 57,
+                "end": 60
+            },
+            {
+                "word": "common",
+                "entity": "LABEL_1",
+                "score": 0.5309572815895081,
+                "index": 12,
+                "start": 61,
+                "end": 67
+            },
+            {
+                "word": "ai",
+                "entity": "LABEL_0",
+                "score": 0.5763002634048462,
+                "index": 13,
+                "start": 68,
+                "end": 70
+            },
+            {
+                "word": "##lm",
+                "entity": "LABEL_1",
+                "score": 0.5742482542991638,
+                "index": 14,
+                "start": 70,
+                "end": 72
+            },
+            {
+                "word": "##ents",
+                "entity": "LABEL_0",
+                "score": 0.6690491437911987,
+                "index": 15,
+                "start": 72,
+                "end": 76
+            },
+            {
+                "word": "such",
+                "entity": "LABEL_1",
+                "score": 0.5111594796180725,
+                "index": 16,
+                "start": 77,
+                "end": 81
+            },
+            {
+                "word": "as",
+                "entity": "LABEL_1",
+                "score": 0.5600771903991699,
+                "index": 17,
+                "start": 82,
+                "end": 84
+            },
+            {
+                "word": "the",
+                "entity": "LABEL_1",
+                "score": 0.5093590021133423,
+                "index": 18,
+                "start": 85,
+                "end": 88
+            },
+            {
+                "word": "common",
+                "entity": "LABEL_1",
+                "score": 0.631997287273407,
+                "index": 19,
+                "start": 89,
+                "end": 95
+            },
+            {
+                "word": "cold",
+                "entity": "LABEL_1",
+                "score": 0.5682988166809082,
+                "index": 20,
+                "start": 96,
+                "end": 100
+            },
+            {
+                "word": "or",
+                "entity": "LABEL_1",
+                "score": 0.5052711963653564,
+                "index": 21,
+                "start": 101,
+                "end": 103
+            },
+            {
+                "word": "seasonal",
+                "entity": "LABEL_1",
+                "score": 0.5937121510505676,
+                "index": 22,
+                "start": 104,
+                "end": 112
+            },
+            {
+                "word": "all",
+                "entity": "LABEL_1",
+                "score": 0.6088467240333557,
+                "index": 23,
+                "start": 113,
+                "end": 116
+            },
+            {
+                "word": "##er",
+                "entity": "LABEL_1",
+                "score": 0.6313026547431946,
+                "index": 24,
+                "start": 116,
+                "end": 118
+            },
+            {
+                "word": "##gies",
+                "entity": "LABEL_1",
+                "score": 0.5198631286621094,
+                "index": 25,
+                "start": 118,
+                "end": 122
+            }
+        ]
+    },
+    {
+        "sentence": "Symptoms like sneezing, coughing, and congestion are commonly associated with these conditions",
+        "intent_data": [
+            {
+                "word": "symptoms",
+                "entity": "LABEL_0",
+                "score": 0.6604521870613098,
+                "index": 1,
+                "start": 0,
+                "end": 8
+            },
+            {
+                "word": "like",
+                "entity": "LABEL_0",
+                "score": 0.6962282657623291,
+                "index": 2,
+                "start": 9,
+                "end": 13
+            },
+            {
+                "word": "s",
+                "entity": "LABEL_0",
+                "score": 0.5500475764274597,
+                "index": 3,
+                "start": 14,
+                "end": 15
+            },
+            {
+                "word": "##nee",
+                "entity": "LABEL_0",
+                "score": 0.5538120865821838,
+                "index": 4,
+                "start": 15,
+                "end": 18
+            },
+            {
+                "word": "##zing",
+                "entity": "LABEL_0",
+                "score": 0.5861348509788513,
+                "index": 5,
+                "start": 18,
+                "end": 22
+            },
+            {
+                "word": ",",
+                "entity": "LABEL_0",
+                "score": 0.5492626428604126,
+                "index": 6,
+                "start": 22,
+                "end": 23
+            },
+            {
+                "word": "coughing",
+                "entity": "LABEL_0",
+                "score": 0.5572722554206848,
+                "index": 7,
+                "start": 24,
+                "end": 32
+            },
+            {
+                "word": ",",
+                "entity": "LABEL_1",
+                "score": 0.5014510750770569,
+                "index": 8,
+                "start": 32,
+                "end": 33
+            },
+            {
+                "word": "and",
+                "entity": "LABEL_0",
+                "score": 0.6498587131500244,
+                "index": 9,
+                "start": 34,
+                "end": 37
+            },
+            {
+                "word": "congestion",
+                "entity": "LABEL_0",
+                "score": 0.6821315288543701,
+                "index": 10,
+                "start": 38,
+                "end": 48
+            },
+            {
+                "word": "are",
+                "entity": "LABEL_0",
+                "score": 0.642302393913269,
+                "index": 11,
+                "start": 49,
+                "end": 52
+            },
+            {
+                "word": "commonly",
+                "entity": "LABEL_0",
+                "score": 0.6119427680969238,
+                "index": 12,
+                "start": 53,
+                "end": 61
+            },
+            {
+                "word": "associated",
+                "entity": "LABEL_0",
+                "score": 0.6505618095397949,
+                "index": 13,
+                "start": 62,
+                "end": 72
+            },
+            {
+                "word": "with",
+                "entity": "LABEL_0",
+                "score": 0.632966935634613,
+                "index": 14,
+                "start": 73,
+                "end": 77
+            },
+            {
+                "word": "these",
+                "entity": "LABEL_0",
+                "score": 0.7160597443580627,
+                "index": 15,
+                "start": 78,
+                "end": 83
+            },
+            {
+                "word": "conditions",
+                "entity": "LABEL_0",
+                "score": 0.5829252004623413,
+                "index": 16,
+                "start": 84,
+                "end": 94
+            }
+        ]
+    },
+    {
+        "sentence": "Over-the-counter remedies such as antihistamines and decongestants are commonly recommended for symptom relief",
+        "intent_data": [
+            {
+                "word": "over",
+                "entity": "LABEL_0",
+                "score": 0.5584064722061157,
+                "index": 1,
+                "start": 0,
+                "end": 4
+            },
+            {
+                "word": "-",
+                "entity": "LABEL_0",
+                "score": 0.596267819404602,
+                "index": 2,
+                "start": 4,
+                "end": 5
+            },
+            {
+                "word": "the",
+                "entity": "LABEL_0",
+                "score": 0.5066367983818054,
+                "index": 3,
+                "start": 5,
+                "end": 8
+            },
+            {
+                "word": "-",
+                "entity": "LABEL_0",
+                "score": 0.5744417309761047,
+                "index": 4,
+                "start": 8,
+                "end": 9
+            },
+            {
+                "word": "counter",
+                "entity": "LABEL_0",
+                "score": 0.6075409054756165,
+                "index": 5,
+                "start": 9,
+                "end": 16
+            },
+            {
+                "word": "re",
+                "entity": "LABEL_0",
+                "score": 0.5392257571220398,
+                "index": 6,
+                "start": 17,
+                "end": 19
+            },
+            {
+                "word": "##med",
+                "entity": "LABEL_1",
+                "score": 0.5164676904678345,
+                "index": 7,
+                "start": 19,
+                "end": 22
+            },
+            {
+                "word": "##ies",
+                "entity": "LABEL_0",
+                "score": 0.5649539232254028,
+                "index": 8,
+                "start": 22,
+                "end": 25
+            },
+            {
+                "word": "such",
+                "entity": "LABEL_0",
+                "score": 0.5855592489242554,
+                "index": 9,
+                "start": 26,
+                "end": 30
+            },
+            {
+                "word": "as",
+                "entity": "LABEL_0",
+                "score": 0.5076151490211487,
+                "index": 10,
+                "start": 31,
+                "end": 33
+            },
+            {
+                "word": "anti",
+                "entity": "LABEL_0",
+                "score": 0.5747485756874084,
+                "index": 11,
+                "start": 34,
+                "end": 38
+            },
+            {
+                "word": "##his",
+                "entity": "LABEL_1",
+                "score": 0.5498342514038086,
+                "index": 12,
+                "start": 38,
+                "end": 41
+            },
+            {
+                "word": "##tam",
+                "entity": "LABEL_1",
+                "score": 0.5128262639045715,
+                "index": 13,
+                "start": 41,
+                "end": 44
+            },
+            {
+                "word": "##ines",
+                "entity": "LABEL_0",
+                "score": 0.5582355856895447,
+                "index": 14,
+                "start": 44,
+                "end": 48
+            },
+            {
+                "word": "and",
+                "entity": "LABEL_0",
+                "score": 0.5541026592254639,
+                "index": 15,
+                "start": 49,
+                "end": 52
+            },
+            {
+                "word": "deco",
+                "entity": "LABEL_0",
+                "score": 0.6268635392189026,
+                "index": 16,
+                "start": 53,
+                "end": 57
+            },
+            {
+                "word": "##nge",
+                "entity": "LABEL_0",
+                "score": 0.6346529722213745,
+                "index": 17,
+                "start": 57,
+                "end": 60
+            },
+            {
+                "word": "##stan",
+                "entity": "LABEL_0",
+                "score": 0.5909042358398438,
+                "index": 18,
+                "start": 60,
+                "end": 64
+            },
+            {
+                "word": "##ts",
+                "entity": "LABEL_0",
+                "score": 0.6404985189437866,
+                "index": 19,
+                "start": 64,
+                "end": 66
+            },
+            {
+                "word": "are",
+                "entity": "LABEL_0",
+                "score": 0.6072245240211487,
+                "index": 20,
+                "start": 67,
+                "end": 70
+            },
+            {
+                "word": "commonly",
+                "entity": "LABEL_0",
+                "score": 0.5196717381477356,
+                "index": 21,
+                "start": 71,
+                "end": 79
+            },
+            {
+                "word": "recommended",
+                "entity": "LABEL_0",
+                "score": 0.5666401982307434,
+                "index": 22,
+                "start": 80,
+                "end": 91
+            },
+            {
+                "word": "for",
+                "entity": "LABEL_0",
+                "score": 0.5817232131958008,
+                "index": 23,
+                "start": 92,
+                "end": 95
+            },
+            {
+                "word": "sy",
+                "entity": "LABEL_0",
+                "score": 0.569019079208374,
+                "index": 24,
+                "start": 96,
+                "end": 98
+            },
+            {
+                "word": "##mpt",
+                "entity": "LABEL_0",
+                "score": 0.5645504593849182,
+                "index": 25,
+                "start": 98,
+                "end": 101
+            },
+            {
+                "word": "##om",
+                "entity": "LABEL_0",
+                "score": 0.5991153120994568,
+                "index": 26,
+                "start": 101,
+                "end": 103
+            },
+            {
+                "word": "relief",
+                "entity": "LABEL_0",
+                "score": 0.5356721878051758,
+                "index": 27,
+                "start": 104,
+                "end": 110
+            }
+        ]
+    },
+    {
+        "sentence": "I love to go to school.",
+        "intent_data": [
+            {
+                "word": "i",
+                "entity": "LABEL_0",
+                "score": 0.525783896446228,
+                "index": 1,
+                "start": 0,
+                "end": 1
+            },
+            {
+                "word": "love",
+                "entity": "LABEL_1",
+                "score": 0.5646219253540039,
+                "index": 2,
+                "start": 2,
+                "end": 6
+            },
+            {
+                "word": "to",
+                "entity": "LABEL_0",
+                "score": 0.529231607913971,
+                "index": 3,
+                "start": 7,
+                "end": 9
+            },
+            {
+                "word": "go",
+                "entity": "LABEL_0",
+                "score": 0.5373148322105408,
+                "index": 4,
+                "start": 10,
+                "end": 12
+            },
+            {
+                "word": "to",
+                "entity": "LABEL_1",
+                "score": 0.5153629183769226,
+                "index": 5,
+                "start": 13,
+                "end": 15
+            },
+            {
+                "word": "school",
+                "entity": "LABEL_0",
+                "score": 0.5646198391914368,
+                "index": 6,
+                "start": 16,
+                "end": 22
+            },
+            {
+                "word": ".",
+                "entity": "LABEL_1",
+                "score": 0.5127108693122864,
+                "index": 7,
+                "start": 22,
+                "end": 23
+            }
+        ]
+    }
+]
